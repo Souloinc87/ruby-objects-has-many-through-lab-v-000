@@ -20,5 +20,4 @@ class Patient
       date.doctor
     end
   end  
-
 end
